@@ -1,0 +1,43 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+  
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+  }
+  table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 33%;
+    padding: 10px;
+  }
+  td{
+    border-top: 1px solid black;
+    border-bottom: 1px solid lightgray;
+    width: 33%;
+    padding: 10px;
+  }
+  .darkcyan{
+    color: white;
+    background-color: darkcyan;
+  }
+  .lightblue{
+    background-color: lightblue;
+  }
+  .lightyellow{
+    background-color: lightyellow;
+  }
+  .center{
+    text-align: center;
+  }
+  .right{
+    text-align: right;
+  }
+  .left{
+    text-align: left;
+  }
